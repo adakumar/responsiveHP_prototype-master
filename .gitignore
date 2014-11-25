@@ -1,0 +1,11 @@
+hpDemo.sublime-project
+hpDemo.sublime-workspace
+screenshots
+node_modules
+bitmaps_test
+.DS_Store
+compare/lib
+compare/config.json
+css/styles.css
+css/styles.css.map
+bower_components
